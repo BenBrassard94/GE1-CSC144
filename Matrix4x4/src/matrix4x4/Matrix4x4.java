@@ -1,9 +1,5 @@
 package matrix4x4;
 
-/**
- *
- * @author bj.brassard
- */
 public class Matrix4x4 {
 
     private double[][] elements = new double[4][4];
